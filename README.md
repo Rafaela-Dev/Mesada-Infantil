@@ -1,6 +1,6 @@
 # Mesada-Infantil
 
-Desenvolvido inicialmente como Trabalho de Conclusão de Curso (TCC) do ensino médio técnico, o projeto tem como objetivo principal ensinar educação financeira para crianças de forma lúdica e interativa.
+Desenvolvido inicialmente como um Trabalho de Conclusão de Curso (TCC) do ensino médio técnico, o projeto tem como objetivo principal ensinar educação financeira para crianças de forma lúdica e interativa.
 Principais destaques:
 
 - App mobile criado com Flutter, voltado para o controle de mesadas e tarefas infantis;
