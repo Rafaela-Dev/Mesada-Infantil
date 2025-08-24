@@ -15,6 +15,16 @@
   - Design UX/UI
   - Computação em Nuvem
   - Desenvolvimento mobile
+  - Acessibilidade digital
+
+##
+
+### 💻 Resultado:
+
+  - Tela de Login/Cadastro:
+    ![Login](https://github.com/user-attachments/assets/12928b96-7d8e-4eab-8b96-2b3d47d72cb0)
+
+  https://github.com/user-attachments/assets/f51129ac-a555-4997-a651-a80334c9fbd0
 
 ##
 
