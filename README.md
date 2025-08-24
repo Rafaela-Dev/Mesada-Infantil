@@ -18,5 +18,5 @@
 
 ##
 
-### Observações/Sugestões:
+### ⚠️ Observações/Sugestões:
   Mesmo após a conclusão do ensino médio, o aplicativo está em fase de atualização, que será publicada, aos poucos, por aqui. Caso você tenha sugestões de melhorias e ideias, pode me enviar uma mensagem no.
