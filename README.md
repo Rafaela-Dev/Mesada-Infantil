@@ -1,11 +1,22 @@
-# Mesada-Infantil
+### 💡 Sobre o Projeto:
+  Desenvolvido inicialmente como um Trabalho de Conclusão de Curso (TCC) de ensino médio técnico, o projeto, em formato de aplicativo mobile, tem como objetivo principal ensinar educação financeira para crianças de forma lúdica e interativa. O mesmo foi programado utilizando os softwares Visual Studio e Android Studio.
 
-Desenvolvido inicialmente como um Trabalho de Conclusão de Curso (TCC) do ensino médio técnico, o projeto tem como objetivo principal ensinar educação financeira para crianças de forma lúdica e interativa.
-Principais destaques:
+##
 
-- App mobile criado com Flutter, voltado para o controle de mesadas e tarefas infantis;
-- Aplicação de princípios de UX e Psicologia das Cores para aumentar o engajamento do público infantil;
-- Integração com Firebase para autenticação, banco de dados em nuvem e segurança das informações;
-- Foco em solucionar um problema real com usabilidade simples e visual amigável para crianças e responsáveis.
+### 🛠 Tecnologias utilizadas:
+  - Flutter
+  - Dart
+  - Firebase
 
-OBS: A fins de explorar melhor a camada do impacto social de um aplicativo de tal nicho, continuarei atualizando o mesmo fora da esfera de TCC.
+##
+
+### 📝 Conhecimentos colocados em prática:
+  - Psicologia das cores
+  - Design UX/UI
+  - Computação em Nuvem
+  - Desenvolvimento mobile
+
+##
+
+### Observações/Sugestões:
+  Mesmo após a conclusão do ensino médio, o aplicativo está em fase de atualização, que será publicada, aos poucos, por aqui. Caso você tenha sugestões de melhorias e ideias, pode me enviar uma mensagem no.
