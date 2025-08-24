@@ -30,4 +30,4 @@
 ##
 
 ### ⚠️ Observações/Sugestões:
-  Mesmo após a conclusão do ensino médio, o aplicativo está em fase de atualização, que será publicada, aos poucos, por aqui. Caso você tenha sugestões de melhorias e ideias, pode me enviar uma mensagem no.
+  Mesmo após a conclusão do ensino médio, o aplicativo está em fase de atualização, que será publicada, aos poucos, por aqui. Caso você tenha sugestões de melhorias e ideias, pode me enviar uma mensagem no [LinkedIn](https://www.linkedin.com/in/rafaela-bucci-327747322).
