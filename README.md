@@ -22,6 +22,7 @@
 ### 💻 Resultado:
 
   - Tela de Login/Cadastro:
+    
     <img src="https://github.com/user-attachments/assets/12928b96-7d8e-4eab-8b96-2b3d47d72cb0" alt="Login" width="500" height="700">
 
     https://github.com/user-attachments/assets/f51129ac-a555-4997-a651-a80334c9fbd0
